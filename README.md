@@ -1,0 +1,2 @@
+# frigate
+### a Sails application
