@@ -1,0 +1,9 @@
+{
+  "files": [
+    {
+      "from": "template.js.hbs",
+      "to": "assets/js/client/templates/{{name}}.hbs"
+    }
+  ],
+  "dependencies": []
+}
